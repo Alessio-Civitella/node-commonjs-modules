@@ -1,0 +1,17 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "node common",
+  "main": "app.js",
+  "scripts": {
+    "start": "node names.js",
+    "dev": "node --watch names.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-commonjs-modules"
+  },
+  "author": "Alessio Civitella",
+  "license": "ISC"
+}
