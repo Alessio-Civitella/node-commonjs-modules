@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node names.js",
     "dev": "node --watch names.js",
+    "start2": "node hobbies.js",
+    "dev2": "node --watch hobbies.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
